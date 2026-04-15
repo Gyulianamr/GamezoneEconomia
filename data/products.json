@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ps5",
+    "name": "PlayStation 5",
+    "description": "Experimenta tiempos de carga ultrarrápidos con un SSD de alta velocidad, inmersión más profunda con retroalimentación háptica, gatillos adaptativos, audio 3D y una nueva generación de increíbles juegos de PlayStation.",
+    "price": 12499,
+    "category": "Consolas",
+    "image": "/images/ps5.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "xbox-series-x",
+    "name": "Xbox Series X",
+    "description": "La Xbox más rápida y potente de la historia. Explora mundos nuevos y ricos con 12 teraflops de potencia de procesamiento gráfico, ray tracing DirectX, un SSD personalizado y juegos en 4K.",
+    "price": 12499,
+    "category": "Consolas",
+    "image": "/images/xbox-series-x.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "nintendo-switch",
+    "name": "Nintendo Switch",
+    "description": "Juega en casa o en cualquier lugar con una vibrante pantalla OLED de 7 pulgadas. Disfruta de audio mejorado y un soporte ajustable amplio para el modo de sobremesa con Nintendo Switch.",
+    "price": 8749,
+    "category": "Consolas",
+    "image": "/images/nintendo-switch.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "gaming-headset",
+    "name": "Audífonos Gaming Pro",
+    "description": "Audífonos gaming con sonido envolvente 7.1, micrófono con cancelación de ruido, iluminación RGB y almohadillas de espuma viscoelástica para máxima comodidad en largas sesiones de juego.",
+    "price": 2249,
+    "category": "Accesorios Gaming",
+    "image": "/images/gaming-headset.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "mechanical-keyboard",
+    "name": "Teclado Mecánico Gaming",
+    "description": "Teclado mecánico gaming premium con switches Cherry MX, retroiluminación RGB por tecla, macros programables y estructura de aluminio de grado aeronáutico.",
+    "price": 3749,
+    "category": "Accesorios Gaming",
+    "image": "/images/mechanical-keyboard.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "wireless-mouse",
+    "name": "Mouse Gaming Inalámbrico",
+    "description": "Mouse gaming inalámbrico ultraligero con sensor de 25K DPI, 70 horas de batería e iluminación RGB personalizable. Perfecto para gaming competitivo.",
+    "price": 1999,
+    "category": "Accesorios Gaming",
+    "image": "/images/wireless-mouse.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "ps5-controller",
+    "name": "Control DualSense",
+    "description": "Descubre una experiencia de juego más profunda y altamente inmersiva con el innovador control de PS5, con retroalimentación háptica, gatillos adaptativos y micrófono integrado.",
+    "price": 1749,
+    "category": "Accesorios Gaming",
+    "image": "/images/ps5-controller.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "xbox-controller",
+    "name": "Control Inalámbrico Xbox",
+    "description": "Experimenta el diseño modernizado del Control Inalámbrico Xbox, con superficies esculpidas, geometría refinada y un agarre texturizado para mayor comodidad.",
+    "price": 1499,
+    "category": "Accesorios Gaming",
+    "image": "/images/xbox-controller.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "elden-ring",
+    "name": "Elden Ring",
+    "description": "Levántate, Tiznado, y déjate guiar por la gracia para blandir el poder del Anillo de Elden y convertirte en un Señor de Elden en las Tierras Intermedias. Una aventura épica de RPG de acción.",
+    "price": 1499,
+    "category": "Videojuegos",
+    "image": "/images/elden-ring.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "zelda-totk",
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "description": "Una aventura épica te espera en The Legend of Zelda: Tears of the Kingdom, solo en Nintendo Switch. Explora la vasta tierra y los cielos de Hyrule.",
+    "price": 1749,
+    "category": "Videojuegos",
+    "image": "/images/zelda-totk.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "god-of-war",
+    "name": "God of War Ragnarok",
+    "description": "Embárcate en un viaje épico y emotivo mientras Kratos y Atreus luchan entre aferrarse y dejar ir. Experimenta una narrativa y combate aclamados por la crítica.",
+    "price": 1749,
+    "category": "Videojuegos",
+    "image": "/images/god-of-war.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "spider-man-2",
+    "name": "Marvel's Spider-Man 2",
+    "description": "Los Spider-Men Peter Parker y Miles Morales enfrentan la prueba definitiva de fuerza dentro y fuera de la máscara mientras luchan para salvar la ciudad de Venom.",
+    "price": 1749,
+    "category": "Videojuegos",
+    "image": "/images/spider-man-2.jpg",
+    "inStock": true,
+    "featured": false
+  }
+]
