@@ -74,7 +74,7 @@ export function CheckoutForm() {
 
     if (!formData.phone.trim()) {
       newErrors.phone = "El teléfono es requerido"
-    } else if (!/^\+?[\d\s\-()]{8,}$/.test(formData.phone)) {
+    } else if (!/^\+?[0-9\s\-()]{8,15}$/.test(formData.phone)) { // <-- EXPRESIÓN REGULAR OPTIMIZADA
       newErrors.phone = "Por favor ingresa un teléfono válido"
     }
 
